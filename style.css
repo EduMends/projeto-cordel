@@ -76,6 +76,7 @@ section.imagem {
     width: fit-content;
     color: white;
     padding: 5px;
+    border-radius: 10px;
 }
 #img1 {
     background-image: url(imagens/background001.jpg);
